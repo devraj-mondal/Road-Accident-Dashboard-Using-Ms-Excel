@@ -14,7 +14,9 @@ Maximum casualties by road type.
 Distribution of total casualties by road surface.
 Relation between casualties by Area/Location and by Day /Night
  
+#Screenshot
 
+![Screenshot (15)](https://github.com/devraj-mondal/Road-Accident-Dashboard-Using-Ms-Excel/assets/64974135/0ee0e7d7-c57a-4e45-8721-497fff1a03cf)
 
 
 Steps Covered-
